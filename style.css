@@ -70,7 +70,26 @@ body {
   gap: 32px;
   margin-bottom: 53px;
 }
+header img:hover {
+  animation: giraGira 0.5s;
+}
 
+header img {
+  transition: 0.5s;
+}
+
+@keyframes giraGira {
+  33% {
+    transform: rotate(10deg);
+  }
+
+  66% {
+    transform: rotate(-10deg);
+  }
+  99% {
+    transform: rotate(0deg);
+  }
+}
 header {
   display: flex;
   justify-content: center;
