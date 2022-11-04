@@ -1,7 +1,7 @@
-<h1 align="center"> Projeto RocketPay | Explorer Lab  </h1>
+<h1 align="center"> Calendário da Copa 2022  🏆 Fase de Grupos ⚽ | NLW #10 </h1>
 
 <p align="center">
-Prencha seu cartão Mastercard ou visa vendo como ele está ficando e vendo ele se adaptando dependendo qual cartão você prencheu (Mastercard ou Visa) . Projeto realizado no Explorer Lab, é .
+Quer saber quando o Brasil joga? Segue um calendário para os jogos da fase de grupos da copa ✌️😁.
 </p>
 
 <p align="center">
@@ -18,10 +18,13 @@ Prencha seu cartão Mastercard ou visa vendo como ele está ficando e vendo ele 
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="blue" src="https://user-images.githubusercontent.com/102992996/200004833-f6b7ede1-6ce7-4346-b2fd-3899d3b396ba.jpeg" width="40%">
+   <img alt="green" src="https://user-images.githubusercontent.com/102992996/200004844-44b51be1-af7e-43bf-845b-49f87354f376.jpeg" width="40%">
+    <img alt="yellow" src="https://user-images.githubusercontent.com/102992996/200004849-ef32094d-6c54-4531-ac6b-4df6867cfb33.jpeg" width="40%">
+     <img alt="resto" src="https://user-images.githubusercontent.com/102992996/200004847-7ffe43de-d994-4f91-bc1c-061df38ba269.jpeg" width="40%">
 </p>
 <p align="right">
-  <a href="https://lab-pink.vercel.app/">😉 Confira o projeto online</a>
+  <a href="https://gabrielsupz.github.io/Calendario-Copa-NLW/">😉 Confira o projeto online</a>
  
 </p>
 
@@ -29,19 +32,18 @@ Prencha seu cartão Mastercard ou visa vendo como ele está ficando e vendo ele 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript e JSON
-- [Node e NPM](https://nodejs.org/)
-- [Vite](https://vitejs.dev/)
-- [iMask](https://imask.js.org)
+- HTML 
+- CSS
+- JavaScript 
+
 
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+O calendário foi feito para quem quiser saber o dia e horário dos jogos da copa 2022, feito em HTML, CSS e JavaScript.Possui 3 temas que alternam a cada click na cetinha de volte ao topo. FInalizado em 04/11/22 e atualizado com as informações até então disponíveis.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout base do  projeto através [DESSE LINK](https://www.figma.com/file/rIOge1yX7n75D6CWal2yQ2/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
@@ -49,6 +51,6 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-##### Feito com ♥ by [Gabriel Suptitz](https://www.linkedin.com/in/gabriel-suptitz-51340124a/) com no envento da 🚀[Rocketseat](https://app.rocketseat.com.br/)
+##### Feito com ♥ by [Gabriel Suptitz](https://www.linkedin.com/in/gabriel-suptitz-51340124a/) na NLW realizada pela 🚀[Rocketseat](https://app.rocketseat.com.br/)
 
-##### Está em busca de novos conhecimentos? Então 🤝[participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
+##### Está em busca de novos conhecimentos? Então 🤝[participe da comunidade Rocketseat!](https://discord.gg/rocketseat) E BORA ATRÁS DO HEXA BRASIL 😉🏆
