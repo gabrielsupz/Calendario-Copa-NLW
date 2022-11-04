@@ -30,7 +30,7 @@ function clickToChangeTheme() {
 
 function createGame(player1, hour, player2) {
   return `
-   <li>
+   <li >
               <img src="./assets/${player1}.svg" alt="Bandeira do(a) ${player1}" />
               <strong>${hour}</strong>
               <img src="./assets/${player2}.svg" alt="Bandeira do(a)${player2}" />
