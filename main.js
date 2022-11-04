@@ -16,13 +16,14 @@ let count = 1
 function clickToChangeTheme() {
   if (count === 1) {
     count = 2
-    document.querySelector("#body").classList.add("green")
-  } else if (count === 2) {
     document.querySelector("#body").classList.remove("green")
     document.querySelector("#body").classList.add("blue")
+  } else if (count === 2) {
+    document.querySelector("#body").classList.remove("blue")
+
     count = 3
   } else if ((count = 3)) {
-    document.querySelector("#body").classList.remove("blue")
+    document.querySelector("#body").classList.add("green")
     count = 1
   }
 }
@@ -41,7 +42,7 @@ let delay = -0.3
 function createCard(date, day, games) {
   delay = delay + 0.3
 
-  if (delay > 1.5) {
+  if (delay > 3.7) {
     return ` <div class="card" >
           <div>
             <h2 id="date">${date} <span>${day}</span></h2>
